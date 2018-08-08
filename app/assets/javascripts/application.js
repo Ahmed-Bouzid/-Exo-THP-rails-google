@@ -14,6 +14,9 @@
 //= require activestorage
 //= require turbolinks
 //= require_tree .
+//= require jquery
+//= require popper
+//= require bootstrap
 
 function danger(){
   alert("kikou JavaScript marche !")
