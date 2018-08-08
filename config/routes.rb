@@ -1,4 +1,4 @@
 Rails.application.routes.draw do
   root 'static_pages#home'
-  get 'bootstrap' => 'static_pages#bootstrap'
+  get 'bootstrap-cdn' => 'static_pages#bootstrap'
 end
