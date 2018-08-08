@@ -14,3 +14,7 @@
 //= require activestorage
 //= require turbolinks
 //= require_tree .
+
+function danger(){
+  alert("kikou JavaScript marche !")
+}
